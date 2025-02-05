@@ -20,6 +20,13 @@ Os quartis ajudam a resumir e entender a distribuição dos dados sem precisar o
 
 Se um dado está **muito abaixo** do 1° Quartil (Q1 - 25%) ou **muito acima** do 3° Quartil (Q3 - 75%), pode ser um valor atípico.
 
+**Mediana**
+
+O 2° Quartil (Q2) também pode ser considerada como a **mediana**, pois é o valor central de um array ordenado.
+
+- Caso o número de elementos for **ímpar**, a **mediana é o valor central**.
+- Caso o número de elementor for **par**, a **mediana é a média dos dois valores centrais**.
+
 ### **Explicação sobre desvio padrão**
 
 O **desvio padrão** é uma medida da **dispersão** dos dados **em torno da média**. Ele indica o quão espalhados os valores estão em relação à média. Um desvio padrão alto significa que os dados estão mais dispersos (os valores estão distantes da média), enquanto um desvio padrão baixo significa que estão mais próximos da média.
